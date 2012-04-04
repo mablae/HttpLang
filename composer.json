@@ -1,0 +1,19 @@
+{
+	"name": "jyc/httplang",
+	"type": "library",
+	"description": "A small collection of functions for dealing with the HTTP Accept-Language header.",
+	"keywords": ["http", "accept-language"],
+	"homepage": "https://bitbucket.org/jyc/httplang",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Jonathan Chan",
+			"email": "jchan@icebrg.us",
+			"homepage": "blog.iostrea.me"
+		}
+	],
+	"require": {
+		"php": ">=5.3.0"
+	}
+}
+

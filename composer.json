@@ -4,7 +4,7 @@
 	"description": "A small collection of functions for dealing with the HTTP Accept-Language header.",
 	"keywords": ["http", "accept-language"],
 	"homepage": "https://bitbucket.org/jyc/httplang",
-	"license": "MIT",
+	"license": "ISC",
 	"authors": [
 		{
 			"name": "Jonathan Chan",

@@ -14,9 +14,9 @@
  * OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN
  * CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
  */
-namespace Jyc\HttpLang;
+namespace jyc\httplang;
 
-require_once __DIR__ . '/HttpLang.php';
+require_once __DIR__ . '/autoload.php';
 
 use PHPUnit_Framework_TestCase;
 
